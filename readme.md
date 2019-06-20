@@ -1,11 +1,10 @@
 <<<<<<< HEAD
 README.md
 
-https://github.com/cssmagic/blog/issues/22
-GitHub 第一坑：换行符自动转换
-
-Git 换行符自动转换问题
-https://blog.csdn.net/kongxx/article/details/45391393
+https://github.com/cssmagic/blog/issues/22   
+GitHub 第一坑：换行符自动转换    
+Git 换行符自动转换问题   
+https://blog.csdn.net/kongxx/article/details/45391393  
 
 導致這個問題的原因是Git自作聰明的“換行符自動轉換”功能。要修復這個問題可以有幾個方式
 
